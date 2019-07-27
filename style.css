@@ -1,0 +1,50 @@
+/*
+
+COLOURS Light / Dark
+GREEN
+#39e47e = rgb(57, 228, 126)
+#207f46 = rgb(32, 127, 70)
+
+*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	padding: 2em;
+}
+
+header{
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+}
+
+main{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	width: 500px;
+	margin: auto auto;
+}
+
+/***************************************/
+
+.loginHeader{
+	margin: 2em 0 0 0;
+}
+
+form{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	margin: 2em 0 0 0;
+}
+
+form *{
+	margin: 0 0 1em 0;
+}
