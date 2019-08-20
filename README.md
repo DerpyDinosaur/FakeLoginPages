@@ -1,4 +1,4 @@
-# Spoofed Login Pages
+# Forged Login Pages
 This repo includes a both basic and real world examples of login pages.
 These are used to demonstrate wireshark over an unencrypted network and how your information can be stolen.
 
